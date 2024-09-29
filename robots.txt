@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://glurmalo.github.io/sitemap.html.gz
+Sitemap: https://glurmalo.github.io/app/sitemap.html.gz
+Sitemap: https://glurmalo.github.io/assets/sitemap.html.gz
+Sitemap: https://glurmalo.github.io/css/sitemap.html.gz
+Sitemap: https://glurmalo.github.io/data/sitemap.html.gz
+Sitemap: https://glurmalo.github.io/includes/sitemap.html.gz
+Sitemap: https://glurmalo.github.io/item/sitemap.html.gz
+Sitemap: https://glurmalo.github.io/src/sitemap.html.gz
